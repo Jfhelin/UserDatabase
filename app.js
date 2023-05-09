@@ -28,7 +28,7 @@ app.post('/submit', urlencodedParser, (req, res) => {
       res.redirect('/');
     }
   });
-});
+}); 
 
 // return all users
 app.get('/users', (req, res) => {
