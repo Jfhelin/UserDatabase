@@ -1,2 +1,2 @@
 # FreeSoftware
-Safe to use! 
+Safe to use!
